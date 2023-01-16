@@ -1,13 +1,31 @@
-## Project Template  
+# Getting Started with Create React App
 
-this repo save the available template for cli (undone, continuous updating)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###  Repo   
-1) ssr: init a ssr project with nextjs  
-2) spa: init a spa project with react  
-3) vscode-extension: init a vscode extension project with ts  
-4) chrome-extension: init a chrome extension project with ts  
+## Available Scripts
 
-### Download  
+In the project directory, you can run:
 
-use branch to download different template (e.g. c-rick/project-template#ssr will download ssr template)
+### `yarn dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:11001](http://localhost:11001) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
